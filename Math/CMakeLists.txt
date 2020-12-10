@@ -1,0 +1,1 @@
+add_library(Math add.cpp add.h)
