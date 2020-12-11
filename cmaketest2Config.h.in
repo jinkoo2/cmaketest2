@@ -1,0 +1,4 @@
+#define cmaketest2_VERSION_MAJOR @cmaketest2_VERSION_MAJOR@
+#define cmaketest2_VERSION_MINOR @cmaketest2_VERSION_MINOR@
+
+#cmakedefine USE_MATH
