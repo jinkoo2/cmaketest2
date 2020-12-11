@@ -1,1 +1,1 @@
-License goes here.
+MIT license
